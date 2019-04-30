@@ -1,0 +1,25 @@
+{
+  "name": "mdh-js-footer",
+  "version": "0.1.0",
+  "description": "This package allows for dynamic foot to be created for JS applications with updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksdedee74/mdh-js-folder.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "M Hurlbut <ksdedee74@gmailk.com> (https://www.npmjs.com/~ksdedee74)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksdedee74/mdh-js-folder/issues"
+  },
+  "homepage": "https://github.com/ksdedee74/mdh-js-folder#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
